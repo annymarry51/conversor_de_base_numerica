@@ -1,6 +1,6 @@
 # conversor_de_base_numerica
 
-A new Flutter project.
+Um projeto em flutter para conversão entre as bases númericas.
 
 ## Getting Started
 
